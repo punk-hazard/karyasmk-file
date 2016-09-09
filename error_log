@@ -1,0 +1,396 @@
+[19-Jul-2016 15:45:35 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/karyasmk/public_html/system/library/session.php on line 36
+[19-Jul-2016 15:45:35 UTC] PHP Fatal error:  Call to undefined method Loader::library() in /home/karyasmk/public_html/system/framework.php on line 77
+[19-Jul-2016 15:45:40 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/karyasmk/public_html/system/library/session.php on line 36
+[19-Jul-2016 15:45:40 UTC] PHP Fatal error:  Call to undefined method Loader::library() in /home/karyasmk/public_html/system/framework.php on line 77
+[19-Jul-2016 15:45:41 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/karyasmk/public_html/system/library/session.php on line 36
+[19-Jul-2016 15:45:41 UTC] PHP Fatal error:  Call to undefined method Loader::library() in /home/karyasmk/public_html/system/framework.php on line 77
+[19-Jul-2016 15:45:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/karyasmk/public_html/system/library/session.php on line 36
+[19-Jul-2016 15:45:42 UTC] PHP Fatal error:  Call to undefined method Loader::library() in /home/karyasmk/public_html/system/framework.php on line 77
+[19-Jul-2016 15:45:42 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/karyasmk/public_html/system/library/session.php on line 36
+[19-Jul-2016 15:45:42 UTC] PHP Fatal error:  Call to undefined method Loader::library() in /home/karyasmk/public_html/system/framework.php on line 77
+[19-Jul-2016 15:45:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/karyasmk/public_html/system/library/session.php on line 36
+[19-Jul-2016 15:45:43 UTC] PHP Fatal error:  Call to undefined method Loader::library() in /home/karyasmk/public_html/system/framework.php on line 77
+[19-Jul-2016 15:45:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/karyasmk/public_html/system/library/session.php on line 36
+[19-Jul-2016 15:45:43 UTC] PHP Fatal error:  Call to undefined method Loader::library() in /home/karyasmk/public_html/system/framework.php on line 77
+[19-Jul-2016 15:45:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/karyasmk/public_html/system/library/session.php on line 36
+[19-Jul-2016 15:45:43 UTC] PHP Fatal error:  Call to undefined method Loader::library() in /home/karyasmk/public_html/system/framework.php on line 77
+[19-Jul-2016 15:45:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/karyasmk/public_html/system/library/session.php on line 36
+[19-Jul-2016 15:45:43 UTC] PHP Fatal error:  Call to undefined method Loader::library() in /home/karyasmk/public_html/system/framework.php on line 77
+[19-Jul-2016 15:45:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/karyasmk/public_html/system/library/session.php on line 36
+[19-Jul-2016 15:45:44 UTC] PHP Fatal error:  Call to undefined method Loader::library() in /home/karyasmk/public_html/system/framework.php on line 77
+[19-Jul-2016 15:45:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/karyasmk/public_html/system/library/session.php on line 36
+[19-Jul-2016 15:45:44 UTC] PHP Fatal error:  Call to undefined method Loader::library() in /home/karyasmk/public_html/system/framework.php on line 77
+[19-Jul-2016 15:45:44 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/karyasmk/public_html/system/library/session.php on line 36
+[19-Jul-2016 15:45:44 UTC] PHP Fatal error:  Call to undefined method Loader::library() in /home/karyasmk/public_html/system/framework.php on line 77
+[19-Jul-2016 15:45:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/karyasmk/public_html/system/library/session.php on line 36
+[19-Jul-2016 15:45:45 UTC] PHP Fatal error:  Call to undefined method Loader::library() in /home/karyasmk/public_html/system/framework.php on line 77
+[19-Jul-2016 15:45:45 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/karyasmk/public_html/system/library/session.php on line 36
+[19-Jul-2016 15:45:45 UTC] PHP Fatal error:  Call to undefined method Loader::library() in /home/karyasmk/public_html/system/framework.php on line 77
+[19-Jul-2016 21:27:27 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/catalog/controller/account/address.php on line 522
+[20-Jul-2016 02:57:19 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/catalog/controller/account/address.php on line 522
+[20-Jul-2016 04:54:27 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/catalog/controller/account/address.php on line 522
+[20-Jul-2016 10:07:50 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/catalog/controller/account/address.php on line 522
+[20-Jul-2016 16:44:09 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/catalog/controller/account/address.php on line 522
+[22-Jul-2016 10:59:53 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/catalog/controller/account/address.php on line 522
+[22-Jul-2016 17:52:44 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/catalog/controller/account/address.php on line 522
+[23-Jul-2016 01:35:37 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/catalog/controller/account/address.php on line 522
+[23-Jul-2016 08:38:31 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/catalog/controller/account/address.php on line 522
+[23-Jul-2016 12:54:56 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/catalog/controller/account/address.php on line 522
+[24-Jul-2016 05:32:36 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/catalog/controller/account/address.php on line 522
+[25-Jul-2016 18:32:04 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/catalog/controller/account/address.php on line 522
+[25-Jul-2016 23:40:24 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/catalog/controller/account/address.php on line 522
+[26-Jul-2016 05:56:31 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/catalog/controller/account/address.php on line 522
+[26-Jul-2016 11:26:53 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/catalog/controller/account/address.php on line 522
+[26-Jul-2016 17:49:40 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/catalog/controller/account/address.php on line 522
+[27-Jul-2016 15:10:26 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/catalog/controller/account/address.php on line 522
+[27-Jul-2016 15:10:27 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/catalog/controller/account/address.php on line 522
+[27-Jul-2016 15:10:27 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/catalog/controller/account/address.php on line 522
+[02-Aug-2016 20:54:38 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/catalog/controller/account/address.php on line 522
+[16-Aug-2016 21:46:57 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/catalog/controller/account/address.php on line 522
+[22-Aug-2016 12:27:07 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: php_network_getaddresses: getaddrinfo failed: Name or service not known (0)' in /home/karyasmk/public_html/system/library/mail.php:170
+Stack trace:
+#0 /home/karyasmk/public_html/catalog/model/checkout/order.php(658): Mail->send()
+#1 [internal function]: ModelCheckoutOrder->addOrderHistory('3', '15')
+#2 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_loader.php(150): call_user_func_array(Array, Array)
+#3 [internal function]: Loader->{closure}(Array)
+#4 /home/karyasmk/public_html/system/engine/proxy.php(13): call_user_func(Object(Closure), Array)
+#5 /home/karyasmk/public_html/catalog/controller/api/order.php(694): Proxy->__call('addOrderHistory', Array)
+#6 /home/karyasmk/public_html/catalog/controller/api/order.php(694): Proxy->addOrderHistory('3', '15')
+#7 [internal function]: ControllerApiOrder->edit()
+#8 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_action.php(44): call_user_func_array(Array, Array)
+#9 /home/karyasmk/public_html/cata in /home/karyasmk/public_html/system/library/mail.php on line 170
+[22-Aug-2016 12:32:28 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: php_network_getaddresses: getaddrinfo failed: Name or service not known (0)' in /home/karyasmk/public_html/system/library/mail.php:170
+Stack trace:
+#0 /home/karyasmk/public_html/catalog/model/checkout/order.php(658): Mail->send()
+#1 [internal function]: ModelCheckoutOrder->addOrderHistory('3', '15')
+#2 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_loader.php(150): call_user_func_array(Array, Array)
+#3 [internal function]: Loader->{closure}(Array)
+#4 /home/karyasmk/public_html/system/engine/proxy.php(13): call_user_func(Object(Closure), Array)
+#5 /home/karyasmk/public_html/catalog/controller/api/order.php(694): Proxy->__call('addOrderHistory', Array)
+#6 /home/karyasmk/public_html/catalog/controller/api/order.php(694): Proxy->addOrderHistory('3', '15')
+#7 [internal function]: ControllerApiOrder->edit()
+#8 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_action.php(44): call_user_func_array(Array, Array)
+#9 /home/karyasmk/public_html/cata in /home/karyasmk/public_html/system/library/mail.php on line 170
+[22-Aug-2016 12:34:14 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: php_network_getaddresses: getaddrinfo failed: Name or service not known (0)' in /home/karyasmk/public_html/system/library/mail.php:170
+Stack trace:
+#0 /home/karyasmk/public_html/catalog/model/checkout/order.php(658): Mail->send()
+#1 [internal function]: ModelCheckoutOrder->addOrderHistory('3', '15')
+#2 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_loader.php(150): call_user_func_array(Array, Array)
+#3 [internal function]: Loader->{closure}(Array)
+#4 /home/karyasmk/public_html/system/engine/proxy.php(13): call_user_func(Object(Closure), Array)
+#5 /home/karyasmk/public_html/catalog/controller/api/order.php(694): Proxy->__call('addOrderHistory', Array)
+#6 /home/karyasmk/public_html/catalog/controller/api/order.php(694): Proxy->addOrderHistory('3', '15')
+#7 [internal function]: ControllerApiOrder->edit()
+#8 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_action.php(44): call_user_func_array(Array, Array)
+#9 /home/karyasmk/public_html/cata in /home/karyasmk/public_html/system/library/mail.php on line 170
+[22-Aug-2016 12:40:16 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: php_network_getaddresses: getaddrinfo failed: Name or service not known (0)' in /home/karyasmk/public_html/system/library/mail.php:170
+Stack trace:
+#0 /home/karyasmk/public_html/catalog/model/checkout/order.php(658): Mail->send()
+#1 [internal function]: ModelCheckoutOrder->addOrderHistory('2', '15')
+#2 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_loader.php(150): call_user_func_array(Array, Array)
+#3 [internal function]: Loader->{closure}(Array)
+#4 /home/karyasmk/public_html/system/engine/proxy.php(13): call_user_func(Object(Closure), Array)
+#5 /home/karyasmk/public_html/catalog/controller/api/order.php(694): Proxy->__call('addOrderHistory', Array)
+#6 /home/karyasmk/public_html/catalog/controller/api/order.php(694): Proxy->addOrderHistory('2', '15')
+#7 [internal function]: ControllerApiOrder->edit()
+#8 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_action.php(44): call_user_func_array(Array, Array)
+#9 /home/karyasmk/public_html/cata in /home/karyasmk/public_html/system/library/mail.php on line 170
+[22-Aug-2016 12:49:22 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: php_network_getaddresses: getaddrinfo failed: Name or service not known (0)' in /home/karyasmk/public_html/system/library/mail.php:170
+Stack trace:
+#0 /home/karyasmk/public_html/catalog/model/checkout/order.php(658): Mail->send()
+#1 [internal function]: ModelCheckoutOrder->addOrderHistory('2', '15')
+#2 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_loader.php(150): call_user_func_array(Array, Array)
+#3 [internal function]: Loader->{closure}(Array)
+#4 /home/karyasmk/public_html/system/engine/proxy.php(13): call_user_func(Object(Closure), Array)
+#5 /home/karyasmk/public_html/catalog/controller/api/order.php(694): Proxy->__call('addOrderHistory', Array)
+#6 /home/karyasmk/public_html/catalog/controller/api/order.php(694): Proxy->addOrderHistory('2', '15')
+#7 [internal function]: ControllerApiOrder->edit()
+#8 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_action.php(44): call_user_func_array(Array, Array)
+#9 /home/karyasmk/public_html/cata in /home/karyasmk/public_html/system/library/mail.php on line 170
+[22-Aug-2016 12:49:26 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: php_network_getaddresses: getaddrinfo failed: Name or service not known (0)' in /home/karyasmk/public_html/system/library/mail.php:170
+Stack trace:
+#0 /home/karyasmk/public_html/catalog/model/checkout/order.php(658): Mail->send()
+#1 [internal function]: ModelCheckoutOrder->addOrderHistory('2', '15')
+#2 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_loader.php(150): call_user_func_array(Array, Array)
+#3 [internal function]: Loader->{closure}(Array)
+#4 /home/karyasmk/public_html/system/engine/proxy.php(13): call_user_func(Object(Closure), Array)
+#5 /home/karyasmk/public_html/catalog/controller/api/order.php(694): Proxy->__call('addOrderHistory', Array)
+#6 /home/karyasmk/public_html/catalog/controller/api/order.php(694): Proxy->addOrderHistory('2', '15')
+#7 [internal function]: ControllerApiOrder->edit()
+#8 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_action.php(44): call_user_func_array(Array, Array)
+#9 /home/karyasmk/public_html/cata in /home/karyasmk/public_html/system/library/mail.php on line 170
+[22-Aug-2016 12:49:36 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: php_network_getaddresses: getaddrinfo failed: Name or service not known (0)' in /home/karyasmk/public_html/system/library/mail.php:170
+Stack trace:
+#0 /home/karyasmk/public_html/catalog/model/checkout/order.php(658): Mail->send()
+#1 [internal function]: ModelCheckoutOrder->addOrderHistory('2', '15')
+#2 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_loader.php(150): call_user_func_array(Array, Array)
+#3 [internal function]: Loader->{closure}(Array)
+#4 /home/karyasmk/public_html/system/engine/proxy.php(13): call_user_func(Object(Closure), Array)
+#5 /home/karyasmk/public_html/catalog/controller/api/order.php(694): Proxy->__call('addOrderHistory', Array)
+#6 /home/karyasmk/public_html/catalog/controller/api/order.php(694): Proxy->addOrderHistory('2', '15')
+#7 [internal function]: ControllerApiOrder->edit()
+#8 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_action.php(44): call_user_func_array(Array, Array)
+#9 /home/karyasmk/public_html/cata in /home/karyasmk/public_html/system/library/mail.php on line 170
+[22-Aug-2016 12:50:45 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: php_network_getaddresses: getaddrinfo failed: Name or service not known (0)' in /home/karyasmk/public_html/system/library/mail.php:170
+Stack trace:
+#0 /home/karyasmk/public_html/catalog/model/checkout/order.php(658): Mail->send()
+#1 [internal function]: ModelCheckoutOrder->addOrderHistory('2', '15')
+#2 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_loader.php(150): call_user_func_array(Array, Array)
+#3 [internal function]: Loader->{closure}(Array)
+#4 /home/karyasmk/public_html/system/engine/proxy.php(13): call_user_func(Object(Closure), Array)
+#5 /home/karyasmk/public_html/catalog/controller/api/order.php(694): Proxy->__call('addOrderHistory', Array)
+#6 /home/karyasmk/public_html/catalog/controller/api/order.php(694): Proxy->addOrderHistory('2', '15')
+#7 [internal function]: ControllerApiOrder->edit()
+#8 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_action.php(44): call_user_func_array(Array, Array)
+#9 /home/karyasmk/public_html/cata in /home/karyasmk/public_html/system/library/mail.php on line 170
+[22-Aug-2016 12:50:48 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: php_network_getaddresses: getaddrinfo failed: Name or service not known (0)' in /home/karyasmk/public_html/system/library/mail.php:170
+Stack trace:
+#0 /home/karyasmk/public_html/catalog/model/checkout/order.php(658): Mail->send()
+#1 [internal function]: ModelCheckoutOrder->addOrderHistory('2', '15')
+#2 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_loader.php(150): call_user_func_array(Array, Array)
+#3 [internal function]: Loader->{closure}(Array)
+#4 /home/karyasmk/public_html/system/engine/proxy.php(13): call_user_func(Object(Closure), Array)
+#5 /home/karyasmk/public_html/catalog/controller/api/order.php(694): Proxy->__call('addOrderHistory', Array)
+#6 /home/karyasmk/public_html/catalog/controller/api/order.php(694): Proxy->addOrderHistory('2', '15')
+#7 [internal function]: ControllerApiOrder->edit()
+#8 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_action.php(44): call_user_func_array(Array, Array)
+#9 /home/karyasmk/public_html/cata in /home/karyasmk/public_html/system/library/mail.php on line 170
+[22-Aug-2016 12:50:51 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: php_network_getaddresses: getaddrinfo failed: Name or service not known (0)' in /home/karyasmk/public_html/system/library/mail.php:170
+Stack trace:
+#0 /home/karyasmk/public_html/catalog/model/checkout/order.php(658): Mail->send()
+#1 [internal function]: ModelCheckoutOrder->addOrderHistory('2', '15')
+#2 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_loader.php(150): call_user_func_array(Array, Array)
+#3 [internal function]: Loader->{closure}(Array)
+#4 /home/karyasmk/public_html/system/engine/proxy.php(13): call_user_func(Object(Closure), Array)
+#5 /home/karyasmk/public_html/catalog/controller/api/order.php(694): Proxy->__call('addOrderHistory', Array)
+#6 /home/karyasmk/public_html/catalog/controller/api/order.php(694): Proxy->addOrderHistory('2', '15')
+#7 [internal function]: ControllerApiOrder->edit()
+#8 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_action.php(44): call_user_func_array(Array, Array)
+#9 /home/karyasmk/public_html/cata in /home/karyasmk/public_html/system/library/mail.php on line 170
+[22-Aug-2016 13:01:18 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: EHLO not accepted from server!' in /home/karyasmk/public_html/system/library/mail.php:196
+Stack trace:
+#0 /home/karyasmk/public_html/catalog/model/checkout/order.php(658): Mail->send()
+#1 [internal function]: ModelCheckoutOrder->addOrderHistory('3', '15')
+#2 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_loader.php(150): call_user_func_array(Array, Array)
+#3 [internal function]: Loader->{closure}(Array)
+#4 /home/karyasmk/public_html/system/engine/proxy.php(13): call_user_func(Object(Closure), Array)
+#5 /home/karyasmk/public_html/catalog/controller/api/order.php(694): Proxy->__call('addOrderHistory', Array)
+#6 /home/karyasmk/public_html/catalog/controller/api/order.php(694): Proxy->addOrderHistory('3', '15')
+#7 [internal function]: ControllerApiOrder->edit()
+#8 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_action.php(44): call_user_func_array(Array, Array)
+#9 /home/karyasmk/public_html/catalog/controller/startup/router.php(25): Action in /home/karyasmk/public_html/system/library/mail.php on line 196
+[22-Aug-2016 13:01:52 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: EHLO not accepted from server!' in /home/karyasmk/public_html/system/library/mail.php:196
+Stack trace:
+#0 /home/karyasmk/public_html/catalog/model/checkout/order.php(658): Mail->send()
+#1 [internal function]: ModelCheckoutOrder->addOrderHistory('3', '15')
+#2 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_loader.php(150): call_user_func_array(Array, Array)
+#3 [internal function]: Loader->{closure}(Array)
+#4 /home/karyasmk/public_html/system/engine/proxy.php(13): call_user_func(Object(Closure), Array)
+#5 /home/karyasmk/public_html/catalog/controller/api/order.php(694): Proxy->__call('addOrderHistory', Array)
+#6 /home/karyasmk/public_html/catalog/controller/api/order.php(694): Proxy->addOrderHistory('3', '15')
+#7 [internal function]: ControllerApiOrder->edit()
+#8 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_action.php(44): call_user_func_array(Array, Array)
+#9 /home/karyasmk/public_html/catalog/controller/startup/router.php(25): Action in /home/karyasmk/public_html/system/library/mail.php on line 196
+[22-Aug-2016 13:12:47 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: EHLO not accepted from server!' in /home/karyasmk/public_html/system/library/mail.php:196
+Stack trace:
+#0 /home/karyasmk/public_html/catalog/model/checkout/order.php(658): Mail->send()
+#1 [internal function]: ModelCheckoutOrder->addOrderHistory('3', '15')
+#2 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_loader.php(150): call_user_func_array(Array, Array)
+#3 [internal function]: Loader->{closure}(Array)
+#4 /home/karyasmk/public_html/system/engine/proxy.php(13): call_user_func(Object(Closure), Array)
+#5 /home/karyasmk/public_html/catalog/controller/api/order.php(694): Proxy->__call('addOrderHistory', Array)
+#6 /home/karyasmk/public_html/catalog/controller/api/order.php(694): Proxy->addOrderHistory('3', '15')
+#7 [internal function]: ControllerApiOrder->edit()
+#8 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_action.php(44): call_user_func_array(Array, Array)
+#9 /home/karyasmk/public_html/catalog/controller/startup/router.php(25): Action in /home/karyasmk/public_html/system/library/mail.php on line 196
+[22-Aug-2016 13:13:12 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: EHLO not accepted from server!' in /home/karyasmk/public_html/system/library/mail.php:196
+Stack trace:
+#0 /home/karyasmk/public_html/catalog/model/checkout/order.php(658): Mail->send()
+#1 [internal function]: ModelCheckoutOrder->addOrderHistory('3', '2')
+#2 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_loader.php(150): call_user_func_array(Array, Array)
+#3 [internal function]: Loader->{closure}(Array)
+#4 /home/karyasmk/public_html/system/engine/proxy.php(13): call_user_func(Object(Closure), Array)
+#5 /home/karyasmk/public_html/catalog/controller/api/order.php(694): Proxy->__call('addOrderHistory', Array)
+#6 /home/karyasmk/public_html/catalog/controller/api/order.php(694): Proxy->addOrderHistory('3', '2')
+#7 [internal function]: ControllerApiOrder->edit()
+#8 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_action.php(44): call_user_func_array(Array, Array)
+#9 /home/karyasmk/public_html/catalog/controller/startup/router.php(25): Action-> in /home/karyasmk/public_html/system/library/mail.php on line 196
+[22-Aug-2016 13:16:42 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: EHLO not accepted from server!' in /home/karyasmk/public_html/system/library/mail.php:196
+Stack trace:
+#0 /home/karyasmk/public_html/catalog/model/account/customer.php(55): Mail->send()
+#1 [internal function]: ModelAccountCustomer->addCustomer(Array)
+#2 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_loader.php(150): call_user_func_array(Array, Array)
+#3 [internal function]: Loader->{closure}(Array)
+#4 /home/karyasmk/public_html/system/engine/proxy.php(13): call_user_func(Object(Closure), Array)
+#5 /home/karyasmk/public_html/catalog/controller/account/register.php(21): Proxy->__call('addCustomer', Array)
+#6 /home/karyasmk/public_html/catalog/controller/account/register.php(21): Proxy->addCustomer(Array)
+#7 [internal function]: ControllerAccountRegister->index()
+#8 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_action.php(44): call_user_func_array(Array, Array)
+#9 /home/karyasmk/public_html/catalog/controller/startup/router.php(25): Act in /home/karyasmk/public_html/system/library/mail.php on line 196
+[22-Aug-2016 13:19:36 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: EHLO not accepted from server!' in /home/karyasmk/public_html/system/library/mail.php:196
+Stack trace:
+#0 /home/karyasmk/public_html/catalog/model/checkout/order.php(658): Mail->send()
+#1 [internal function]: ModelCheckoutOrder->addOrderHistory(4, '1', 'Please transfer...', true)
+#2 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_loader.php(150): call_user_func_array(Array, Array)
+#3 [internal function]: Loader->{closure}(Array)
+#4 /home/karyasmk/public_html/system/engine/proxy.php(13): call_user_func(Object(Closure), Array)
+#5 /home/karyasmk/public_html/catalog/controller/payment/bank_mandiri.php(29): Proxy->__call('addOrderHistory', Array)
+#6 /home/karyasmk/public_html/catalog/controller/payment/bank_mandiri.php(29): Proxy->addOrderHistory(4, '1', 'Please transfer...', true)
+#7 [internal function]: ControllerPaymentBankMandiri->confirm()
+#8 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_action.php(44): call_user_func_array(Array, Arr in /home/karyasmk/public_html/system/library/mail.php on line 196
+[22-Aug-2016 13:20:02 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: EHLO not accepted from server!' in /home/karyasmk/public_html/system/library/mail.php:196
+Stack trace:
+#0 /home/karyasmk/public_html/catalog/model/checkout/order.php(804): Mail->send()
+#1 [internal function]: ModelCheckoutOrder->addOrderHistory(4, '1', 'Please transfer...', true)
+#2 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_loader.php(150): call_user_func_array(Array, Array)
+#3 [internal function]: Loader->{closure}(Array)
+#4 /home/karyasmk/public_html/system/engine/proxy.php(13): call_user_func(Object(Closure), Array)
+#5 /home/karyasmk/public_html/catalog/controller/payment/bank_mandiri.php(29): Proxy->__call('addOrderHistory', Array)
+#6 /home/karyasmk/public_html/catalog/controller/payment/bank_mandiri.php(29): Proxy->addOrderHistory(4, '1', 'Please transfer...', true)
+#7 [internal function]: ControllerPaymentBankMandiri->confirm()
+#8 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_action.php(44): call_user_func_array(Array, Arr in /home/karyasmk/public_html/system/library/mail.php on line 196
+[22-Aug-2016 13:20:29 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: EHLO not accepted from server!' in /home/karyasmk/public_html/system/library/mail.php:196
+Stack trace:
+#0 /home/karyasmk/public_html/catalog/model/checkout/order.php(804): Mail->send()
+#1 [internal function]: ModelCheckoutOrder->addOrderHistory('4', '1', '', '1', '0')
+#2 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_loader.php(150): call_user_func_array(Array, Array)
+#3 [internal function]: Loader->{closure}(Array)
+#4 /home/karyasmk/public_html/system/engine/proxy.php(13): call_user_func(Object(Closure), Array)
+#5 /home/karyasmk/public_html/catalog/controller/api/order.php(821): Proxy->__call('addOrderHistory', Array)
+#6 /home/karyasmk/public_html/catalog/controller/api/order.php(821): Proxy->addOrderHistory('4', '1', '', '1', '0')
+#7 [internal function]: ControllerApiOrder->history()
+#8 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_action.php(44): call_user_func_array(Array, Array)
+#9 /home/karyasmk/public_html/catalog/controller/s in /home/karyasmk/public_html/system/library/mail.php on line 196
+[22-Aug-2016 13:27:18 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: EHLO not accepted from server!' in /home/karyasmk/public_html/system/library/mail.php:196
+Stack trace:
+#0 /home/karyasmk/public_html/catalog/model/checkout/order.php(804): Mail->send()
+#1 [internal function]: ModelCheckoutOrder->addOrderHistory(4, '1', 'Please transfer...', true)
+#2 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_loader.php(150): call_user_func_array(Array, Array)
+#3 [internal function]: Loader->{closure}(Array)
+#4 /home/karyasmk/public_html/system/engine/proxy.php(13): call_user_func(Object(Closure), Array)
+#5 /home/karyasmk/public_html/catalog/controller/payment/bank_mandiri.php(29): Proxy->__call('addOrderHistory', Array)
+#6 /home/karyasmk/public_html/catalog/controller/payment/bank_mandiri.php(29): Proxy->addOrderHistory(4, '1', 'Please transfer...', true)
+#7 [internal function]: ControllerPaymentBankMandiri->confirm()
+#8 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_action.php(44): call_user_func_array(Array, Arr in /home/karyasmk/public_html/system/library/mail.php on line 196
+[22-Aug-2016 13:27:46 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: EHLO not accepted from server!' in /home/karyasmk/public_html/system/library/mail.php:196
+Stack trace:
+#0 /home/karyasmk/public_html/catalog/model/checkout/order.php(658): Mail->send()
+#1 [internal function]: ModelCheckoutOrder->addOrderHistory(5, '1', 'Please transfer...', true)
+#2 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_loader.php(150): call_user_func_array(Array, Array)
+#3 [internal function]: Loader->{closure}(Array)
+#4 /home/karyasmk/public_html/system/engine/proxy.php(13): call_user_func(Object(Closure), Array)
+#5 /home/karyasmk/public_html/catalog/controller/payment/bank_mandiri.php(29): Proxy->__call('addOrderHistory', Array)
+#6 /home/karyasmk/public_html/catalog/controller/payment/bank_mandiri.php(29): Proxy->addOrderHistory(5, '1', 'Please transfer...', true)
+#7 [internal function]: ControllerPaymentBankMandiri->confirm()
+#8 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_action.php(44): call_user_func_array(Array, Arr in /home/karyasmk/public_html/system/library/mail.php on line 196
+[22-Aug-2016 13:32:34 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: EHLO not accepted from server!' in /home/karyasmk/public_html/system/library/mail.php:196
+Stack trace:
+#0 /home/karyasmk/public_html/catalog/model/checkout/order.php(658): Mail->send()
+#1 [internal function]: ModelCheckoutOrder->addOrderHistory(6, '1', 'Bank Transfer I...', true)
+#2 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_loader.php(150): call_user_func_array(Array, Array)
+#3 [internal function]: Loader->{closure}(Array)
+#4 /home/karyasmk/public_html/system/engine/proxy.php(13): call_user_func(Object(Closure), Array)
+#5 /home/karyasmk/public_html/catalog/controller/payment/bank_transfer.php(30): Proxy->__call('addOrderHistory', Array)
+#6 /home/karyasmk/public_html/catalog/controller/payment/bank_transfer.php(30): Proxy->addOrderHistory(6, '1', 'Bank Transfer I...', true)
+#7 [internal function]: ControllerPaymentBankTransfer->confirm()
+#8 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_action.php(44): call_user_func_array(Array,  in /home/karyasmk/public_html/system/library/mail.php on line 196
+[22-Aug-2016 13:32:41 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: EHLO not accepted from server!' in /home/karyasmk/public_html/system/library/mail.php:196
+Stack trace:
+#0 /home/karyasmk/public_html/catalog/model/checkout/order.php(804): Mail->send()
+#1 [internal function]: ModelCheckoutOrder->addOrderHistory(6, '1', 'Bank Transfer I...', true)
+#2 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_loader.php(150): call_user_func_array(Array, Array)
+#3 [internal function]: Loader->{closure}(Array)
+#4 /home/karyasmk/public_html/system/engine/proxy.php(13): call_user_func(Object(Closure), Array)
+#5 /home/karyasmk/public_html/catalog/controller/payment/bank_transfer.php(30): Proxy->__call('addOrderHistory', Array)
+#6 /home/karyasmk/public_html/catalog/controller/payment/bank_transfer.php(30): Proxy->addOrderHistory(6, '1', 'Bank Transfer I...', true)
+#7 [internal function]: ControllerPaymentBankTransfer->confirm()
+#8 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_action.php(44): call_user_func_array(Array,  in /home/karyasmk/public_html/system/library/mail.php on line 196
+[22-Aug-2016 13:36:01 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: EHLO not accepted from server!' in /home/karyasmk/public_html/system/library/mail.php:196
+Stack trace:
+#0 /home/karyasmk/public_html/catalog/model/checkout/order.php(658): Mail->send()
+#1 [internal function]: ModelCheckoutOrder->addOrderHistory(7, '1', 'Bank Transfer I...', true)
+#2 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_loader.php(150): call_user_func_array(Array, Array)
+#3 [internal function]: Loader->{closure}(Array)
+#4 /home/karyasmk/public_html/system/engine/proxy.php(13): call_user_func(Object(Closure), Array)
+#5 /home/karyasmk/public_html/catalog/controller/payment/bank_transfer.php(30): Proxy->__call('addOrderHistory', Array)
+#6 /home/karyasmk/public_html/catalog/controller/payment/bank_transfer.php(30): Proxy->addOrderHistory(7, '1', 'Bank Transfer I...', true)
+#7 [internal function]: ControllerPaymentBankTransfer->confirm()
+#8 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_action.php(44): call_user_func_array(Array,  in /home/karyasmk/public_html/system/library/mail.php on line 196
+[30-Aug-2016 01:56:40 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/catalog/controller/account/address.php on line 522
+[30-Aug-2016 09:32:08 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/catalog/controller/account/address.php on line 522
+[30-Aug-2016 15:36:25 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/catalog/controller/account/address.php on line 522
+[31-Aug-2016 13:17:37 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/catalog/controller/account/address.php on line 522
+[01-Sep-2016 23:55:00 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Table 'karyasmk_ocar691.ocik_megamenu' doesn't exist<br />Error No: 1146<br /> SELECT m.*, md.title,md.description FROM ocik_megamenu m LEFT JOIN ocik_megamenu_description md ON m.megamenu_id=md.megamenu_id AND language_id=1 WHERE m.`published`=1  AND store_id=0 ORDER BY `position`  ' in /home/karyasmk/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/karyasmk/public_html/system/library/db.php(16): DB\MySQLi->query(' SELECT m.*, md...', Array)
+#1 /home/karyasmk/public_html/catalog/model/menu/megamenu.php(47): DB->query(' SELECT m.*, md...')
+#2 /home/karyasmk/public_html/catalog/model/menu/megamenu.php(83): ModelMenuMegamenu->getChilds(NULL, 0)
+#3 [internal function]: ModelMenuMegamenu->getTree('1', true, Array, 0)
+#4 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_loader.php(150): call_user_func_array(Array, Array)
+#5 [internal function]: Loader->{closure}(Array)
+#6 /home/karyasmk/public_html/system/engine/proxy.php(13): call_user_ in /home/karyasmk/public_html/system/library/db/mysqli.php on line 40
+[01-Sep-2016 23:55:00 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Table 'karyasmk_ocar691.ocik_megamenu' doesn't exist<br />Error No: 1146<br /> SELECT m.*, md.title,md.description FROM ocik_megamenu m LEFT JOIN ocik_megamenu_description md ON m.megamenu_id=md.megamenu_id AND language_id=1 WHERE m.`published`=1  AND store_id=0 ORDER BY `position`  ' in /home/karyasmk/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/karyasmk/public_html/system/library/db.php(16): DB\MySQLi->query(' SELECT m.*, md...', Array)
+#1 /home/karyasmk/public_html/catalog/model/menu/megamenu.php(47): DB->query(' SELECT m.*, md...')
+#2 /home/karyasmk/public_html/catalog/model/menu/megamenu.php(83): ModelMenuMegamenu->getChilds(NULL, 0)
+#3 [internal function]: ModelMenuMegamenu->getTree('1', true, Array, 0)
+#4 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_loader.php(150): call_user_func_array(Array, Array)
+#5 [internal function]: Loader->{closure}(Array)
+#6 /home/karyasmk/public_html/system/engine/proxy.php(13): call_user_ in /home/karyasmk/public_html/system/library/db/mysqli.php on line 40
+[01-Sep-2016 23:55:03 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Table 'karyasmk_ocar691.ocik_megamenu' doesn't exist<br />Error No: 1146<br /> SELECT m.*, md.title,md.description FROM ocik_megamenu m LEFT JOIN ocik_megamenu_description md ON m.megamenu_id=md.megamenu_id AND language_id=1 WHERE m.`published`=1  AND store_id=0 ORDER BY `position`  ' in /home/karyasmk/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/karyasmk/public_html/system/library/db.php(16): DB\MySQLi->query(' SELECT m.*, md...', Array)
+#1 /home/karyasmk/public_html/catalog/model/menu/megamenu.php(47): DB->query(' SELECT m.*, md...')
+#2 /home/karyasmk/public_html/catalog/model/menu/megamenu.php(83): ModelMenuMegamenu->getChilds(NULL, 0)
+#3 [internal function]: ModelMenuMegamenu->getTree('1', true, Array, 0)
+#4 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_loader.php(150): call_user_func_array(Array, Array)
+#5 [internal function]: Loader->{closure}(Array)
+#6 /home/karyasmk/public_html/system/engine/proxy.php(13): call_user_ in /home/karyasmk/public_html/system/library/db/mysqli.php on line 40
+[02-Sep-2016 00:11:55 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Table 'karyasmk_ocar691.ocik_pavblog_blog' doesn't exist<br />Error No: 1146<br /> SELECT b.*,bd.title,bd.description,cd.title as category_title FROM ocik_pavblog_blog b LEFT JOIN ocik_pavblog_blog_description bd ON b.blog_id=bd.blog_id  and bd.language_id=1 LEFT JOIN ocik_pavblog_category c ON c.category_id=b.category_id  LEFT JOIN ocik_pavblog_category_description cd ON c.category_id=cd.category_id  and cd.language_id=1 WHERE b.status = '1' AND bd.language_id=1 ORDER BY b.created DESC, LCASE(bd.title) DESC LIMIT 0,6' in /home/karyasmk/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/karyasmk/public_html/system/library/db.php(16): DB\MySQLi->query(' SELECT b.*,bd....', Array)
+#1 /home/karyasmk/public_html/catalog/model/pavblog/blog.php(181): DB->query(' SELECT b.*,bd....')
+#2 [internal function]: ModelPavblogBlog->getListBlogs(Array)
+#3 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_loader.php(150): call_user_func_array(Array, A in /home/karyasmk/public_html/system/library/db/mysqli.php on line 40
+[02-Sep-2016 00:11:58 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error: Table 'karyasmk_ocar691.ocik_pavblog_blog' doesn't exist<br />Error No: 1146<br /> SELECT b.*,bd.title,bd.description,cd.title as category_title FROM ocik_pavblog_blog b LEFT JOIN ocik_pavblog_blog_description bd ON b.blog_id=bd.blog_id  and bd.language_id=1 LEFT JOIN ocik_pavblog_category c ON c.category_id=b.category_id  LEFT JOIN ocik_pavblog_category_description cd ON c.category_id=cd.category_id  and cd.language_id=1 WHERE b.status = '1' AND bd.language_id=1 ORDER BY b.created DESC, LCASE(bd.title) DESC LIMIT 0,6' in /home/karyasmk/public_html/system/library/db/mysqli.php:40
+Stack trace:
+#0 /home/karyasmk/public_html/system/library/db.php(16): DB\MySQLi->query(' SELECT b.*,bd....', Array)
+#1 /home/karyasmk/public_html/catalog/model/pavblog/blog.php(181): DB->query(' SELECT b.*,bd....')
+#2 [internal function]: ModelPavblogBlog->getListBlogs(Array)
+#3 /home/karyasmk/public_html/vqmod/vqcache/vq2-system_engine_loader.php(150): call_user_func_array(Array, A in /home/karyasmk/public_html/system/library/db/mysqli.php on line 40
+[02-Sep-2016 12:20:30 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/catalog/controller/account/address.php on line 522
+[02-Sep-2016 12:59:34 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/system/storage/modification/catalog/controller/account/address.php on line 524
+[02-Sep-2016 12:59:36 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/system/storage/modification/catalog/controller/account/address.php on line 524
+[02-Sep-2016 12:59:36 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/system/storage/modification/catalog/controller/account/address.php on line 524
+[02-Sep-2016 12:59:37 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/system/storage/modification/catalog/controller/account/address.php on line 524
+[02-Sep-2016 12:59:37 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/system/storage/modification/catalog/controller/account/address.php on line 524
+[02-Sep-2016 12:59:37 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/system/storage/modification/catalog/controller/account/address.php on line 524
+[02-Sep-2016 12:59:38 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/system/storage/modification/catalog/controller/account/address.php on line 524
+[02-Sep-2016 12:59:38 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/system/storage/modification/catalog/controller/account/address.php on line 524
+[02-Sep-2016 12:59:38 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/system/storage/modification/catalog/controller/account/address.php on line 524
+[02-Sep-2016 12:59:39 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/system/storage/modification/catalog/controller/account/address.php on line 524
+[02-Sep-2016 13:01:06 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/system/storage/modification/catalog/controller/account/address.php on line 524
+[02-Sep-2016 13:01:08 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/system/storage/modification/catalog/controller/account/address.php on line 524
+[02-Sep-2016 13:02:55 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/system/storage/modification/catalog/controller/account/address.php on line 524
+[02-Sep-2016 13:03:37 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/system/storage/modification/catalog/controller/account/address.php on line 524
+[02-Sep-2016 13:03:38 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/system/storage/modification/catalog/controller/account/address.php on line 524
+[02-Sep-2016 13:03:42 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/system/storage/modification/catalog/controller/account/address.php on line 524
+[02-Sep-2016 13:35:02 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/system/storage/modification/catalog/controller/account/address.php on line 524
+[02-Sep-2016 13:35:03 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/system/storage/modification/catalog/controller/account/address.php on line 524
+[02-Sep-2016 13:35:04 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/system/storage/modification/catalog/controller/account/address.php on line 524
+[02-Sep-2016 13:35:04 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/system/storage/modification/catalog/controller/account/address.php on line 524
+[02-Sep-2016 13:35:05 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/system/storage/modification/catalog/controller/account/address.php on line 524
+[02-Sep-2016 13:35:05 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/system/storage/modification/catalog/controller/account/address.php on line 524
+[02-Sep-2016 13:35:48 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/system/storage/modification/catalog/controller/account/address.php on line 524
+[02-Sep-2016 13:35:54 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/system/storage/modification/catalog/controller/account/address.php on line 524
+[02-Sep-2016 13:35:56 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/karyasmk/public_html/system/storage/modification/catalog/controller/account/address.php on line 524
+[03-Sep-2016 04:59:10 UTC] PHP Fatal error:  Can't use method return value in write context in /home/karyasmk/public_html/catalog/model/total/transfer_code.php on line 11
+[03-Sep-2016 04:59:10 UTC] PHP Fatal error:  Can't use method return value in write context in /home/karyasmk/public_html/catalog/model/total/transfer_code.php on line 11
+[03-Sep-2016 04:59:12 UTC] PHP Fatal error:  Can't use method return value in write context in /home/karyasmk/public_html/catalog/model/total/transfer_code.php on line 11
+[03-Sep-2016 04:59:12 UTC] PHP Fatal error:  Can't use method return value in write context in /home/karyasmk/public_html/catalog/model/total/transfer_code.php on line 11
+[03-Sep-2016 04:59:13 UTC] PHP Fatal error:  Can't use method return value in write context in /home/karyasmk/public_html/catalog/model/total/transfer_code.php on line 11
+[03-Sep-2016 04:59:13 UTC] PHP Fatal error:  Can't use method return value in write context in /home/karyasmk/public_html/catalog/model/total/transfer_code.php on line 11
+[03-Sep-2016 04:59:14 UTC] PHP Fatal error:  Can't use method return value in write context in /home/karyasmk/public_html/catalog/model/total/transfer_code.php on line 11
+[03-Sep-2016 04:59:14 UTC] PHP Fatal error:  Can't use method return value in write context in /home/karyasmk/public_html/catalog/model/total/transfer_code.php on line 11
+[03-Sep-2016 05:02:04 UTC] PHP Fatal error:  Can't use method return value in write context in /home/karyasmk/public_html/catalog/model/total/transfer_code.php on line 11
